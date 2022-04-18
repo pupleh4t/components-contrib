@@ -1,4 +1,4 @@
-module github.com/dapr/components-contrib
+module github.com/pupleh4t/components-contrib
 
 go 1.17
 
